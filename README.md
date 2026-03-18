@@ -5,15 +5,16 @@ I always had trouble remembering to bring everything that I needed for math clas
 
 ## How to Run
 1. Press the `BEGIN` button in the Preview panel to see your model in action!
-2. Hold up your desired item to the camera, and watch as the image classifier identifies the item w/ 85-100% accuracy in the number panel 
+2. Hold up your desired item to the camera, and watch as the image classifier identifies the item with 85-100% accuracy in the number panel 
 
    Note: It may take a few seconds to load. Press the refresh button in the Preview panel to close the camera.
 
 ## Impact/Results
 
-- Classified 3 kinds of geometry tools that achieves a guaranteed 85-100% accuracy on test data
+- Took 3 commonly-used geometry tools and built classifier with guaranteed 85-100% accuracy on test data
 - Curated and trained a 66-image dataset model via Teachable Machine across 3 seperate categories of tools
 - Deployed a fully interactive, browser-based web app using HTML, CSS, and Javascript with no installation needed
+- 
 
 ## Project Showcase Prep
 
