@@ -2,6 +2,8 @@
 
 A fully accessible, browser-based ML image classifier that identifies important geometry tools needed in real time, built to help students like me never forget about the essentials ever again.
 
+Try the Live Demo Here: https://7s4hkp.csb.app/
+
 ## Overview
 
 I always had trouble remembering to bring everything that I needed for math class. I would either forget one thing or the other, and it would leave me looking for alternatives. Developed at Kode With Klossy's Code-A-Bration, I modified a template model and pitched an image classifier that has been trained to recognize protractors, calculators (including the one in your phone), and pencils (both mechanical and traditional), so these essential tools will never escape your mind when packing your bag ever again.
